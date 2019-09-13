@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>download (37).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\download (37).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleeping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>51</ymin>
+			<xmax>258</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

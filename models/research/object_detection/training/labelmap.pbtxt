@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'standing'
+}
+
+item {
+  id: 2
+  name: 'sitting'
+}
+
+item {
+  id: 3
+  name: 'sleeping'
+}
