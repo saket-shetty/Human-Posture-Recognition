@@ -3,9 +3,7 @@ Human Posture Recognition using deep learning
 
 ### Demo
 
-<video width="400" controls>
-  <source src="https://github.com/saket-shetty/Human-Posture-Recognition/blob/master/demo.mp4" type="video/mp4">
-</video>
+[![Link to my YouTube video!](https://github.com/saket-shetty/Human-Posture-Recognition/blob/master/Capture.PNG)](https://www.youtube.com/watch?v=y_ok2L09Sq0)
 
 ### Prerequisites
 
