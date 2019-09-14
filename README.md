@@ -226,4 +226,7 @@ If everything is working properly, the object detector will initialize for about
 
 * **Saket Shetty** - *Initial work* - [saket-shetty](https://github.com/saket-shetty)
 
+## Contact
+email: shettysaket05@gmail.com
+
 
