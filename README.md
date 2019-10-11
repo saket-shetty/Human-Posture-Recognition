@@ -27,6 +27,7 @@ activate tensorflow1
 ### 3. Install following pip
 
 ```
+(tensorflow1) C:\> pip install tensorflow
 (tensorflow1) C:\> conda install -c anaconda protobuf
 (tensorflow1) C:\> pip install pillow
 (tensorflow1) C:\> pip install lxml
