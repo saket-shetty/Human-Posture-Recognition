@@ -226,6 +226,8 @@ If everything is working properly, the object detector will initialize for about
 ## Authors
 
 * **Saket Shetty** - *Initial work* - [saket-shetty](https://github.com/saket-shetty)
+* **Varun Shetty** - *Initial work* - [varun-shetty](https://github.com/varunshetty1)
+* **Faisal Shaikh**
 
 ## Contact
 email: shettysaket05@gmail.com
